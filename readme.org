@@ -1,4 +1,4 @@
-#+TITLE: Awesome Magnetic Resonance Imaging (MRI) [[https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg][Awesome]]
+#+TITLE: Awesome Magnetic Resonance Imaging (MRI)
 
 #+BEGIN_QUOTE
 A curated list of delightful Magnetic Resonance (MR) courses, books, lectures, papers, blogs and free resources.
@@ -33,13 +33,12 @@ A curated list of delightful Magnetic Resonance (MR) courses, books, lectures, p
 - [[http://mri-q.com/uploads/3/4/5/7/34572113/roemer_539235.pdf][The NMR phased array]] :: The first reference publication on multiple coil acquisition and signal combination, by P. Roemer.
 -  [[https://users.fmrib.ox.ac.uk/~jesper/papers/Phanalysis_061024/Griswold2002.pdf][Generalized Autocalibrating Partially Parallel Acquisitions (GRAPPA)]] :: The GRAPPA paper, by Mark Griswold.
 - [[https://pdfs.semanticscholar.org/2167/6bb8111e74f05732de20a3bcc1284793417b.pdf][SENSE: Sensitivity Encoding for Fast MRI]] :: "New theoretical and practical concepts are presented for considerably enhancing the performance of magnetic resonance imaging (MRI) by means of arrays of multiple receiver coils."
-- Compressed Sensing
+- [[https://statweb.stanford.edu/~donoho/Reports/2007/CSMRI-20071204.pdf][Compressed Sensing]] :: Describes the theory for acquisition and reconstruction of sparse MRI data using Compressed Sensing. By M. Lustig, 2007.
 
 ** MR Techniques
 - [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC55275/pdf/pnas01049-0370.pdf][FMRI, BOLD Contrast]] :: What is considered the first  observation of Blood Oxygenation Level-Dependent Contrast, by Ogawa et al.
-- Magnetization Transfer :: First demonstration of the MTC effect /in vivo/.
-- Resting State FMRI
-- Diffusion
+- [[https://github.com/dangom/awesome-mri/blob/master/references/wolff1989.pdf][Magnetization Transfer]] :: First demonstration of the MTC effect /in vivo/.
+- [[https://pdfs.semanticscholar.org/693a/6e46be9b613ac5beab7313e1f0b51658dbe9.pdf][Resting State FMRI]] :: The first report on functional connectivity measured with BOLD, without any FMRI task.
 
 
 * Blogs

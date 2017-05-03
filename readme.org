@@ -57,7 +57,10 @@ A curated list of delightful Magnetic Resonance (MR) courses, books, lectures, p
 ** MR Simulation
 
 ** Pulse Sequence Development
+- [[http://od1n.sourceforge.net/][ODIN: Object-oriented Development Interface for NMR]] :: Full featured, GPL licensed software framework to develop and simulate magnetic resonance sequences.
 
 ** Data Reconstruction
+- [[http://gadgetron.github.io/][Gadgetron]] :: Open Source Framework for Image Reconstruction. With Gadgetron raw data can be reconstructed offline and sent back to the MR scanner. For the end-user it looks like the data were reconstructed online.
+- [[https://mrirecon.github.io/bart/][BART: Berkeley Advanced Reconstruction Toolbox]] :: "The library provides common operations on multi-dimensional arrays, Fourier and wavelet transforms, as well as generic implementations of iterative optimization algorithms.". In very active development as of 2017.
 
 ** Data Analysis

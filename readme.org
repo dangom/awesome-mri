@@ -1,4 +1,8 @@
 #+TITLE: Awesome Magnetic Resonance Imaging (MRI)
+#+OPTIONS: toc:2
+
+
+#+TOC: headlines 2
 
 #+BEGIN_QUOTE
 A curated list of delightful Magnetic Resonance (MR) courses, books, lectures, papers, blogs and free resources.

@@ -1,4 +1,4 @@
-#+TITLE: Awesome Magnetic Resonance Imaging (MRI)
+#+TITLE: Awesome Magnetic Resonance Imaging (MRI) [[https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg][Awesome]]
 
 #+BEGIN_QUOTE
 A curated list of delightful Magnetic Resonance (MR) courses, books, lectures, papers, blogs and free resources.

@@ -1,0 +1,50 @@
+#+TITLE: Awesome Magnetic Resonance Imaging (MRI)
+
+#+BEGIN_QUOTE
+A curated list of delightful Magnetic Resonance (MR) courses, books, lectures, papers, blogs and free resources.
+#+END_QUOTE
+
+
+* Courses
+- [[https://www.imaios.com/en/e-Courses/e-MRI][Interactive online course on NMR and MRI]] :: Comprehensive material on the fundamentals of MRI. Course designed for radiologists, but fit for beginners in general. Limited, but existent, support for other languages.
+- [[http://mri-q.com/complete-list-of-questions.html][Questions and Answers in MRI]] :: Though not strictly a course, contains high quality introductory material and lots of references for further study.
+
+* Books
+- [[https://books.google.nl/books?id=d6PLHcyejEIC&printsec=frontcover&hl=de&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false][Handbook of MRI Pulse Sequences]] :: A through overview of imaging fundamentals,  and details of  pulse design in general.  Published in 2004.
+
+
+* Lectures
+
+* Historical Papers
+
+** MR Physics
+- [[http://mri-q.com/uploads/3/4/5/7/34572113/bloch._nuclear_induction_experiment_1946.pdf][The Nuclear Induction Experiment]] :: The first publication describing the phenomenon of NMR and relaxation times, by F. Bloch et al.
+- [[http://sites.fas.harvard.edu/~phys191r/References/c4/hahn1950.pdf][Spin Echoes]] :: The seminal paper describing the discovery of Spin Echoes, by Erwin Hahn.
+- [[https://www.physics.rutgers.edu/grad/506/Carr_Purcell_PR94.pdf][CPMG Sequence]] :: A convenient variation of Hahn's Spin Echoes is described.
+- [[http://ac.els-cdn.com/002223648890128X/1-s2.0-002223648890128X-main.pdf?_tid=e3ee50fc-2fea-11e7-acfd-00000aacb360&acdnat=1493807335_ae61e9b4a66ac26a177d88d65591cc08][Extended Phase Graphs]] :: Algorithm to recognize all echoes ocurring in a multipulse sequence, by J. Hennig.
+
+** Fundamentals of MRI
+- [[http://mri-q.com/uploads/3/4/5/7/34572113/stehling_epi_science_1991.pdf][Echo Planar Imaging]] :: Not the first publication, but the first describing the promises of EPI.
+- [[http://mri-q.com/uploads/3/4/5/7/34572113/lauterbur_nature_1973.pdf][MRI]] :: Famous P. Lauterbur /Nature/ seminal paper introducing MRI, at the time called /zeugmatography/.
+- [[http://mri-q.com/uploads/3/4/5/7/34572113/mansfield_maudsley_1977_bjr_finger.pdf][MRI in vivo]] :: First demonstration of MRI in vivo, by P. Mansfield, showing finger images.
+
+
+** Image Reconstruction
+- [[http://mri-q.com/uploads/3/4/5/7/34572113/roemer_539235.pdf][The NMR phased array]] :: The first reference publication on multiple coil acquisition and signal combination, by P. Roemer.
+-  [[https://users.fmrib.ox.ac.uk/~jesper/papers/Phanalysis_061024/Griswold2002.pdf][Generalized Autocalibrating Partially Parallel Acquisitions (GRAPPA)]] :: The GRAPPA paper, by Mark Griswold.
+- [[https://pdfs.semanticscholar.org/2167/6bb8111e74f05732de20a3bcc1284793417b.pdf][SENSE: Sensitivity Encoding for Fast MRI]] :: "New theoretical and practical concepts are presented for considerably enhancing the performance of magnetic resonance imaging (MRI) by means of arrays of multiple receiver coils."
+- Compressed Sensing
+
+** MR Techniques
+- [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC55275/pdf/pnas01049-0370.pdf][FMRI, BOLD Contrast]] :: What is considered the first  observation of Blood Oxygenation Level-Dependent Contrast, by Ogawa et al.
+- Magnetization Transfer :: First demonstration of the MTC effect /in vivo/.
+- Resting State FMRI
+- Diffusion
+
+
+* Blogs
+- [[https://practicalfmri.blogspot.nl/][Practical FMRI]] :: Education, tips and tricks to help conduct better fMRI experiments. Focus on acquisition, not on post-processing.
+
+* Free Resources
+- [[http://www.opensourceimaging.org/][Open Source Imaging]] :: An initiative from the community to provide an open hardware and open software MR system.
+- [[http://www.ismrm.org/MR-Hub/][MR Hub]] :: A platform to share resources and projects within the MR community. Sponsored by the International Society for Magnetic Resonance in Medicine (ISMRM).

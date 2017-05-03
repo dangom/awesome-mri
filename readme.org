@@ -2,12 +2,28 @@
 #+OPTIONS: toc:2
 
 
-#+TOC: headlines 2
 
 #+BEGIN_QUOTE
 A curated list of delightful Magnetic Resonance (MR) courses, books, lectures, papers, blogs and free resources.
 #+END_QUOTE
 
+
+* Table of Contents :TOC:
+ - [[#courses][Courses]]
+ - [[#books][Books]]
+ - [[#lectures][Lectures]]
+ - [[#historical-papers][Historical Papers]]
+   - [[#mr-physics][MR Physics]]
+   - [[#fundamentals-of-mri][Fundamentals of MRI]]
+   - [[#image-reconstruction][Image Reconstruction]]
+   - [[#mr-techniques][MR Techniques]]
+ - [[#blogs][Blogs]]
+ - [[#free-resources][Free Resources]]
+   - [[#general][General]]
+   - [[#mr-simulation][MR Simulation]]
+   - [[#pulse-sequence-development][Pulse Sequence Development]]
+   - [[#data-reconstruction][Data Reconstruction]]
+   - [[#data-analysis][Data Analysis]]
 
 * Courses
 - [[https://www.imaios.com/en/e-Courses/e-MRI][Interactive online course on NMR and MRI]] :: Comprehensive material on the fundamentals of MRI. Course designed for radiologists, but fit for beginners in general. Limited, but existent, support for other languages.

@@ -11,6 +11,7 @@ A curated list of delightful Magnetic Resonance (MR) courses, books, lectures, p
 
 * Books
 - [[https://books.google.nl/books?id=d6PLHcyejEIC&printsec=frontcover&hl=de&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false][Handbook of MRI Pulse Sequences]] :: A through overview of imaging fundamentals,  and details of  pulse design in general.  Published in 2004.
+- [[http://link.springer.com/book/10.1007%252F978-3-642-80443-4][Echo-Planar Imaging]] :: Theory of EPI. Relevant for all diving into FMRI and Diffusion Imaging. By Schmitt et al., 1998.
 
 
 * Lectures
@@ -45,5 +46,14 @@ A curated list of delightful Magnetic Resonance (MR) courses, books, lectures, p
 - [[https://practicalfmri.blogspot.nl/][Practical FMRI]] :: Education, tips and tricks to help conduct better fMRI experiments. Focus on acquisition, not on post-processing.
 
 * Free Resources
+** General
 - [[http://www.opensourceimaging.org/][Open Source Imaging]] :: An initiative from the community to provide an open hardware and open software MR system.
 - [[http://www.ismrm.org/MR-Hub/][MR Hub]] :: A platform to share resources and projects within the MR community. Sponsored by the International Society for Magnetic Resonance in Medicine (ISMRM).
+
+** MR Simulation
+
+** Pulse Sequence Development
+
+** Data Reconstruction
+
+** Data Analysis

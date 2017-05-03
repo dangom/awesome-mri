@@ -24,6 +24,7 @@ A curated list of delightful Magnetic Resonance (MR) courses, books, lectures, p
    - [[#pulse-sequence-development][Pulse Sequence Development]]
    - [[#data-reconstruction][Data Reconstruction]]
    - [[#data-analysis][Data Analysis]]
+ - [[#license][License]]
 
 * Courses
 - [[https://www.imaios.com/en/e-Courses/e-MRI][Interactive online course on NMR and MRI]] :: Comprehensive material on the fundamentals of MRI. Course designed for radiologists, but fit for beginners in general. Limited, but existent, support for other languages.
@@ -80,3 +81,8 @@ A curated list of delightful Magnetic Resonance (MR) courses, books, lectures, p
 - [[https://mrirecon.github.io/bart/][BART: Berkeley Advanced Reconstruction Toolbox]] :: "The library provides common operations on multi-dimensional arrays, Fourier and wavelet transforms, as well as generic implementations of iterative optimization algorithms.". In very active development as of 2017.
 
 ** Data Analysis
+
+* License
+[[https://creativecommons.org/publicdomain/zero/1.0/][img/public-domain.png]]
+
+To the extent possible under law, Daniel Gomez has waived all copyright and related or neighboring rights to this work.

@@ -12,7 +12,7 @@ A curated list of delightful Magnetic Resonance (MR) courses, books, lectures, p
 * Table of Contents :TOC:
  - [[#courses][Courses]]
  - [[#books][Books]]
- - [[#lectures][Lectures]]
+ - [[#tutorials][Tutorials]]
  - [[#historical-papers][Historical Papers]]
    - [[#mr-physics][MR Physics]]
    - [[#fundamentals-of-mri][Fundamentals of MRI]]
@@ -36,7 +36,8 @@ A curated list of delightful Magnetic Resonance (MR) courses, books, lectures, p
 - [[http://link.springer.com/book/10.1007%252F978-3-642-80443-4][Echo-Planar Imaging]] :: Theory of EPI. Relevant for all diving into FMRI and Diffusion Imaging. By Schmitt et al., 1998.
 
 
-* Lectures
+* Tutorials
+- [[https://itunes.apple.com/nl/app/a-k-space-odyssey/id1180053143?l=en&mt=8][A K-Space Odissey]] :: An iOS app with an interactive primer on the information contained in k-space.
 
 * Historical Papers
 

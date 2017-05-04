@@ -37,7 +37,7 @@ A curated list of delightful Magnetic Resonance (MR) courses, books, lectures, p
 
 
 * Tutorials
-- [[https://itunes.apple.com/nl/app/a-k-space-odyssey/id1180053143?l=en&mt=8][A K-Space Odissey]] :: An iOS app with an interactive primer on the information contained in k-space.
+- [[https://itunes.apple.com/nl/app/a-k-space-odyssey/id1180053143?l=en&mt=8][A K-Space Odissey]] :: An interactive iOS app to explore  k-space. The /help/ section may contain inexact information, though.
 
 * Historical Papers
 

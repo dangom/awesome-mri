@@ -34,6 +34,7 @@ A curated list of delightful Magnetic Resonance (MR) courses, books, lectures, p
 * Books
 - [[https://books.google.nl/books?id=d6PLHcyejEIC&printsec=frontcover&hl=de&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false][Handbook of MRI Pulse Sequences]] :: A through overview of imaging fundamentals,  and details of  pulse design in general.  Published in 2004.
 - [[http://link.springer.com/book/10.1007%252F978-3-642-80443-4][Echo-Planar Imaging]] :: Theory of EPI. Relevant for all diving into FMRI and Diffusion Imaging. By Schmitt et al., 1998.
+- [[http://onlinelibrary.wiley.com/book/10.1002/9781118633953][MRI: Physical Principles and Sequence Design]] :: A comprehensive overview of the physics of MRI.
 
 
 * Tutorials

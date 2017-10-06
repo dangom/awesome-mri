@@ -10,22 +10,22 @@ A curated list of delightful Magnetic Resonance (MR) courses, books, lectures, p
 
 
 * Table of Contents :TOC:
- - [[#courses][Courses]]
- - [[#books][Books]]
- - [[#tutorials][Tutorials]]
- - [[#historical-papers][Historical Papers]]
-   - [[#mr-physics][MR Physics]]
-   - [[#fundamentals-of-mri][Fundamentals of MRI]]
-   - [[#image-reconstruction][Image Reconstruction]]
-   - [[#mr-techniques][MR Techniques]]
- - [[#blogs][Blogs]]
- - [[#free-resources][Free Resources]]
-   - [[#general][General]]
-   - [[#mr-simulation][MR Simulation]]
-   - [[#pulse-sequence-development][Pulse Sequence Development]]
-   - [[#data-reconstruction][Data Reconstruction]]
-   - [[#data-analysis][Data Analysis]]
- - [[#license][License]]
+- [[#courses][Courses]]
+- [[#books][Books]]
+- [[#tutorials][Tutorials]]
+- [[#historical-papers][Historical Papers]]
+  - [[#mr-physics][MR Physics]]
+  - [[#fundamentals-of-mri][Fundamentals of MRI]]
+  - [[#image-reconstruction][Image Reconstruction]]
+  - [[#mr-techniques][MR Techniques]]
+- [[#blogs][Blogs]]
+- [[#free-resources][Free Resources]]
+  - [[#general][General]]
+  - [[#mr-simulation][MR Simulation]]
+  - [[#pulse-sequence-development][Pulse Sequence Development]]
+  - [[#data-reconstruction][Data Reconstruction]]
+  - [[#data-analysis][Data Analysis]]
+- [[#license][License]]
 
 * Courses
 - [[https://www.imaios.com/en/e-Courses/e-MRI][Interactive online course on NMR and MRI]] :: Comprehensive material on the fundamentals of MRI. Course designed for radiologists, but fit for beginners in general. Limited, but existent, support for other languages.
@@ -34,10 +34,12 @@ A curated list of delightful Magnetic Resonance (MR) courses, books, lectures, p
 * Books
 - [[https://books.google.nl/books?id=d6PLHcyejEIC&printsec=frontcover&hl=de&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false][Handbook of MRI Pulse Sequences]] :: A through overview of imaging fundamentals,  and details of  pulse design in general.  Published in 2004.
 - [[http://link.springer.com/book/10.1007%252F978-3-642-80443-4][Echo-Planar Imaging]] :: Theory of EPI. Relevant for all diving into FMRI and Diffusion Imaging. By Schmitt et al., 1998.
+- [[http://cds.cern.ch/record/1113297/files/9780470511176_TOC.pdf][Spin Dynamics. Basics of Nuclear Magnetic Resonance]] :: Fundamentals of NMR from a QM perspective. Focus on clarity and consistence. Published in 2008.
 
 
 * Tutorials
 - [[https://itunes.apple.com/nl/app/a-k-space-odyssey/id1180053143?l=en&mt=8][A K-Space Odissey]] :: An interactive iOS app to explore  k-space. The /help/ section may contain inexact information, though.
+- [[http://pfeifer.phas.ubc.ca/refbase/files/LARSG.HANSON-ConceptsInMagnetic-2008-32A-329.pdf][Is Quantum Mechanics Necessary for Understanding MR?]] :: A manifesto against wrong and outdated NMR teachings.
 
 * Historical Papers
 

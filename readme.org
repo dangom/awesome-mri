@@ -19,7 +19,7 @@ A curated list of delightful Magnetic Resonance (MR) courses, books, lectures, p
   - [[#image-reconstruction][Image Reconstruction]]
   - [[#mr-techniques][MR Techniques]]
 - [[#blogs][Blogs]]
-- [[#free-resources][Free Resources]]
+- [[#resources][Resources]]
   - [[#general][General]]
   - [[#mr-simulation][MR Simulation]]
   - [[#pulse-sequence-development][Pulse Sequence Development]]
@@ -69,8 +69,9 @@ A curated list of delightful Magnetic Resonance (MR) courses, books, lectures, p
 * Blogs
 - [[https://practicalfmri.blogspot.nl/][Practical FMRI]] :: Education, tips and tricks to help conduct better fMRI experiments. Focus on acquisition, not on post-processing.
 
-* Free Resources
+* Resources
 ** General
+- [[https://www.ismrm.org][ISMRM Community]] :: Website of the International Society for Magnetic Resonance in Medicine. Provides educational resources, video recordings of previous conferences, job boards, links to social media, a blog and a member section.
 - [[http://www.opensourceimaging.org/][Open Source Imaging]] :: An initiative from the community to provide an open hardware and open software MR system.
 - [[http://www.ismrm.org/MR-Hub/][MR Hub]] :: A platform to share resources and projects within the MR community. Sponsored by the International Society for Magnetic Resonance in Medicine (ISMRM).
 

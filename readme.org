@@ -48,6 +48,7 @@ A curated list of delightful Magnetic Resonance (MR) courses, books, lectures, p
 - [[http://sites.fas.harvard.edu/~phys191r/References/c4/hahn1950.pdf][Spin Echoes]] :: The seminal paper describing the discovery of Spin Echoes, by Erwin Hahn.
 - [[https://www.physics.rutgers.edu/grad/506/Carr_Purcell_PR94.pdf][CPMG Sequence]] :: A convenient variation of Hahn's Spin Echoes is described.
 - [[http://ac.els-cdn.com/002223648890128X/1-s2.0-002223648890128X-main.pdf?_tid=e3ee50fc-2fea-11e7-acfd-00000aacb360&acdnat=1493807335_ae61e9b4a66ac26a177d88d65591cc08][Extended Phase Graphs]] :: Algorithm to recognize all echoes ocurring in a multipulse sequence, by J. Hennig.
+- [[file:references/Schenck_1996.pdf][The role of magnetic susceptibility in MRI]] :: Comprehensive discussion on MRI magnetic compatibility and the basic physics of magnetization and magnetic susceptibility.
 
 ** Fundamentals of MRI
 - [[http://mri-q.com/uploads/3/4/5/7/34572113/stehling_epi_science_1991.pdf][Echo Planar Imaging]] :: Not the first publication, but the first describing the promises of EPI.

@@ -1,7 +1,7 @@
 #+TITLE: Awesome Magnetic Resonance Imaging (MRI)
 #+OPTIONS: toc:2
 
- [[https://github.com/sindresorhus/awesome][img/badge.png]]
+[[https://github.com/sindresorhus/awesome][https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg]]
 
 
 #+BEGIN_QUOTE
@@ -10,22 +10,22 @@ A curated list of delightful Magnetic Resonance (MR) courses, books, lectures, p
 
 
 * Table of Contents :TOC:
- - [[#courses][Courses]]
- - [[#books][Books]]
- - [[#tutorials][Tutorials]]
- - [[#historical-papers][Historical Papers]]
-   - [[#mr-physics][MR Physics]]
-   - [[#fundamentals-of-mri][Fundamentals of MRI]]
-   - [[#image-reconstruction][Image Reconstruction]]
-   - [[#mr-techniques][MR Techniques]]
- - [[#blogs][Blogs]]
- - [[#free-resources][Free Resources]]
-   - [[#general][General]]
-   - [[#mr-simulation][MR Simulation]]
-   - [[#pulse-sequence-development][Pulse Sequence Development]]
-   - [[#data-reconstruction][Data Reconstruction]]
-   - [[#data-analysis][Data Analysis]]
- - [[#license][License]]
+- [[#courses][Courses]]
+- [[#books][Books]]
+- [[#tutorials][Tutorials]]
+- [[#historical-papers][Historical Papers]]
+  - [[#mr-physics][MR Physics]]
+  - [[#fundamentals-of-mri][Fundamentals of MRI]]
+  - [[#image-reconstruction][Image Reconstruction]]
+  - [[#mr-techniques][MR Techniques]]
+- [[#blogs][Blogs]]
+- [[#free-resources][Free Resources]]
+  - [[#general][General]]
+  - [[#mr-simulation][MR Simulation]]
+  - [[#pulse-sequence-development][Pulse Sequence Development]]
+  - [[#data-reconstruction][Data Reconstruction]]
+  - [[#data-analysis][Data Analysis]]
+- [[#license][License]]
 
 * Courses
 - [[https://www.imaios.com/en/e-Courses/e-MRI][Interactive online course on NMR and MRI]] :: Comprehensive material on the fundamentals of MRI. Course designed for radiologists, but fit for beginners in general. Limited, but existent, support for other languages.
@@ -53,9 +53,8 @@ A curated list of delightful Magnetic Resonance (MR) courses, books, lectures, p
 - [[http://mri-q.com/uploads/3/4/5/7/34572113/lauterbur_nature_1973.pdf][MRI]] :: Famous P. Lauterbur /Nature/ seminal paper introducing MRI, at the time called /zeugmatography/.
 - [[http://mri-q.com/uploads/3/4/5/7/34572113/mansfield_maudsley_1977_bjr_finger.pdf][MRI in vivo]] :: First demonstration of MRI in vivo, by P. Mansfield, showing finger images.
 
-
 ** Image Reconstruction
-- [[http://mri-q.com/uploads/3/4/5/7/34572113/roemer_539235.pdf][The NMR phased array]] :: The first reference publication on multiple coil acquisition and signal combination, by P. Roemer.
+- [[http://mri-q.com/uploads/3/4/5/7/34572113/roemer_539235.pdf][The NMR phased array]] :: The first reference publication on multiple coil acquisition and signal combination, by P. Roemer. 
 -  [[https://users.fmrib.ox.ac.uk/~jesper/papers/Phanalysis_061024/Griswold2002.pdf][Generalized Autocalibrating Partially Parallel Acquisitions (GRAPPA)]] :: The GRAPPA paper, by Mark Griswold.
 - [[https://pdfs.semanticscholar.org/2167/6bb8111e74f05732de20a3bcc1284793417b.pdf][SENSE: Sensitivity Encoding for Fast MRI]] :: "New theoretical and practical concepts are presented for considerably enhancing the performance of magnetic resonance imaging (MRI) by means of arrays of multiple receiver coils."
 - [[https://statweb.stanford.edu/~donoho/Reports/2007/CSMRI-20071204.pdf][Compressed Sensing]] :: Describes the theory for acquisition and reconstruction of sparse MRI data using Compressed Sensing. By M. Lustig, 2007.
@@ -76,11 +75,16 @@ A curated list of delightful Magnetic Resonance (MR) courses, books, lectures, p
 
 ** MR Simulation
 
+- [[http://mrilab.sourceforge.net/][MRILab: A numerical MRI simulator]] :: MRiLab is a rapid and versatile numerical MRI simulator with Matlab interface and GPU parallel acceleration on Windows and Linux. High simulation accuracy is achieved by simulating discrete spin evolution at small time interval using the Bloch-equation and appropriate tissue model. 
+
 ** Pulse Sequence Development
 - [[http://od1n.sourceforge.net/][ODIN: Object-oriented Development Interface for NMR]] :: Full featured, GPL licensed software framework to develop and simulate magnetic resonance sequences.
 
+- [[https://github.com/pulseq/pulseq][Pulseq: Open Source Framework for Pulse Sequences]] :: Pulseq is an open source framework for the development, representation and execution of magnetic resonance (MR) sequences. A central contribution of the project is an [[http://pulseq.github.io/specification.pdf][open file format]] to compactly describe MR sequences suitable for execution on an MRI scanner or NMR spectrometer. MATLAB and C++ source code is provided for reading and writing sequence files.
+
 ** Data Reconstruction
 - [[http://gadgetron.github.io/][Gadgetron]] :: Open Source Framework for Image Reconstruction. With Gadgetron raw data can be reconstructed offline and sent back to the MR scanner. For the end-user it looks like the data were reconstructed online.
+
 - [[https://mrirecon.github.io/bart/][BART: Berkeley Advanced Reconstruction Toolbox]] :: "The library provides common operations on multi-dimensional arrays, Fourier and wavelet transforms, as well as generic implementations of iterative optimization algorithms.". In very active development as of 2017.
 
 ** Data Analysis

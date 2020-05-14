@@ -69,6 +69,7 @@ A curated list of delightful Magnetic Resonance (MR) courses, books, lectures, p
 
 * Blogs
 - [[https://practicalfmri.blogspot.nl/][Practical FMRI]] :: Education, tips and tricks to help conduct better fMRI experiments. Focus on acquisition, not on post-processing.
+- [[https://layerfmri.com/][Layer FMRI]] :: Renzo Huber's blog on high resolution cortical-depth fMRI analysis. Talks about details from the acquisition to the pre-processing and analysis of high res. functional data.
 
 * Resources
 ** General

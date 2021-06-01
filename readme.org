@@ -79,7 +79,8 @@ A curated list of delightful Magnetic Resonance (MR) courses, books, lectures, p
 
 ** MR Simulation
 
-- [[http://mrilab.sourceforge.net/][MRILab: A numerical MRI simulator]] :: MRiLab is a rapid and versatile numerical MRI simulator with Matlab interface and GPU parallel acceleration on Windows and Linux. High simulation accuracy is achieved by simulating discrete spin evolution at small time interval using the Bloch-equation and appropriate tissue model. 
+- [[http://mrilab.sourceforge.net/][MRILab: A numerical MRI simulator]] :: MRiLab is a rapid and versatile numerical MRI simulator with Matlab interface and GPU parallel acceleration on Windows and Linux. High simulation accuracy is achieved by simulating discrete spin evolution at small time interval using the Bloch-equation and appropriate tissue model.
+- [[https://github.com/bretglun/BlochBuster][BlochBuster]] :: A nuclear magnetic resonance Bloch equation simulator written in Python. It simulates magnetization vectors based on the Bloch equations, including precession, relaxation, and excitation. Takes yaml-config files as inputs and saves simulation results as videos.
 
 ** Pulse Sequence Development
 - [[http://od1n.sourceforge.net/][ODIN: Object-oriented Development Interface for NMR]] :: Full featured, GPL licensed software framework to develop and simulate magnetic resonance sequences.
